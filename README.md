@@ -22,6 +22,10 @@ Premium: Full access to all features
 
 User authentication and management
 
+Stripe for Payments
+
+Gemini API key for content generation
+
 ## Tech Stack
 
 Frontend: React.js, Tailwind CSS
